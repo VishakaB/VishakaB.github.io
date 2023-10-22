@@ -1,5 +1,5 @@
 title: Vishaka Basnayake
-logo: ./assests/vishaka_profilepic.JPG
+logo: src = "./assests/vishaka_profilepic.JPG"
 description: text below image
 show_downloads: true
 themes: jekyll-theme-architect
