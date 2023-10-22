@@ -29,7 +29,8 @@ Technical Skills: Python, SQL, Java, MATLAB, Scikit-learn, Tensorflow, Ansys HFS
 
 ## Projects and Publications
 ** M-Ary QAM Asynchronous-NOMA D2D Network With Cyclic Triangular-SIC Decoding Scheme (1/16/2023)**
-[Publication](M-Ary QAM Asynchronous-NOMA D2D Network With Cyclic Triangular-SIC Decoding Scheme)
+
+- [Publication](https://ieeexplore.ieee.org/document/10018312)
 
 **Adaptive Emergency Call Service for Disaster Management**
 
