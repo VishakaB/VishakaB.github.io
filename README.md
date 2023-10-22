@@ -158,14 +158,14 @@ discourse.
 - Electromagnetism
 - Satellite Communications
   
-[Vishaka Basnayake Youtube](https://www.youtube.com/channel/UCP-gQKG5nroQ6dDIyZMs3kw)
+[Youtube](https://www.youtube.com/channel/UCP-gQKG5nroQ6dDIyZMs3kw)
 
 **Presentations on Research Findings**
 -  IEEE 19th International Symposium on Network Computing and Applications (NCA), 2020
 -  IEEE 94th Vehicular Technology Conference (VTC2021-Fall), 2021
 -  IEEE International Symposium on Personal, Indoor and Mobile Radio Communication, 2023
 
-[Vishaka Basnayake Youtube](https://www.youtube.com/channel/UCP-gQKG5nroQ6dDIyZMs3kw)
+[Youtube](https://www.youtube.com/channel/UCP-gQKG5nroQ6dDIyZMs3kw)
 
 
 ## References
