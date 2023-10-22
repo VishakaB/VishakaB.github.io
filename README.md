@@ -121,3 +121,25 @@ Autonomous mobile robots working in-proximity humans and objects are becoming fr
 - Issued February 2019
 - Credential ID: TKUXA3QGY4XC
 - [Link](https://www.coursera.org/account/accomplishments/certificate/TKUXA3QGY4XC)
+
+## References
+**Dr. Hakim Mabed**
+Associate Professor,
+DISC - NUMERICA (Campus Montbéliard)
+Portes du Jura
+2 cours Louis Leprince Ringuet
+25200 MONTBELIARD
+hmabed@gmail.com
+[Link](https://www.femto-st.fr/en/femto-people/hmabed)
+
+**Dr. Philippe Canalda**
+Associate Professor,
+DISC - NUMERICA (Campus Montbéliard)
+Portes du Jura
+2 cours Louis Leprince Ringuet
+25200 MONTBELIARD
+philippe.canalda@univ-fcomte.fr
+[Link](https://www.femto-st.fr/en/femto-people/pcanalda)
+
+
+
