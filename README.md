@@ -1,8 +1,8 @@
 # Vishaka Basnayake
 
-###Education
+##Education
 Computer Science, Wireless Communication Ssytems, PhD
 
-### Work Experience
+## Work Experience
 Lecturer and Researcher, Wireless Communication Systems
 
