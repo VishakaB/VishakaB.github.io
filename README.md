@@ -88,6 +88,19 @@ Autonomous mobile robots working in-proximity humans and objects are becoming fr
 
 ## Licenses and Certifications
 **SQL for Data Science**
-- Coursera, Oct 2023, Credential ID: EUUFZ445D95T (https://www.coursera.org/account/accomplishments/certificate/EUUFZ445D95T)
+- Coursera
+- Issued Oct 2023
+- Credential ID: EUUFZ445D95T
+- [Link](https://www.coursera.org/account/accomplishments/certificate/EUUFZ445D95T)
  
+**Wireless Communications for Everybody**
+- Coursera
+- Issued Sept 2019
+- Credential ID: EQPJ7TW2HZGD
+- [Link](https://www.coursera.org/account/accomplishments/certificate/EQPJ7TW2HZGD)
 
+**How Google Does Machine Learning**
+- Coursera
+- Issued June 2019
+- Credential ID: VYEJ2VAEWHAK
+- [Link](https://www.coursera.org/account/accomplishments/verify/VYEJ2VAEWHAK)
