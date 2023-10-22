@@ -28,7 +28,7 @@ Technical Skills: Python, SQL, Java, MATLAB, Scikit-learn, Tensorflow, Ansys HFS
 - Proofreading Base Station Tower Designs Provided by Telecommunications Vendors
 
 ## Projects and Publications
-**M-Ary QAM Asynchronous-NOMA D2D Network With Cyclic Triangular-SIC Decoding Scheme (IEEE Access | 1/16/2023 )**
+**M-Ary QAM Asynchronous-NOMA D2D Network With Cyclic Triangular-SIC Decoding Scheme (IEEE Access | 1/16/2023)**
 - Authors: Vishaka Basnayake, Dushantha Nalin K. Jayakody, Hakim Mabed, Philippe Canalda
 - [Publication](https://ieeexplore.ieee.org/document/10018312) 
   
