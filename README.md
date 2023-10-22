@@ -131,6 +131,16 @@ Autonomous mobile robots working in-proximity humans and objects are becoming fr
 
 
 ## Management and Leadership Skills
+**Lead in MSc in Electronics and Communications Engineering**
+- Managing the MSc Programme in Electronics and Communications Engineering under the Faculty of Postgraduate
+Studies and Research at Sri Lanka Technological Campus, Sri Lanka.
+- [Link](https://www.youtube.com/watch?v=zw8hl-HMFfA)
+
+**Lead in Editorial Committee | SLTC International Research Conference 2023**
+- Responsible for curating top-tier research papers, ensuring academic excellence and fostering rigorous scholarly
+discourse.
+- [Link](https://irc2023.sltc.ac.lk/conference-committee)
+
 
 ## References
 **Dr. Hakim Mabed**
