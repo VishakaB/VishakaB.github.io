@@ -124,13 +124,13 @@ Autonomous mobile robots working in-proximity humans and objects are becoming fr
 
 ## References
 **Dr. Hakim Mabed**
--Associate Professor,
+- Associate Professor,
 DISC - NUMERICA (Campus Montbéliard)
 Portes du Jura
 2 cours Louis Leprince Ringuet
 25200 MONTBELIARD
--hmabed@gmail.com
--[Link](https://www.femto-st.fr/en/femto-people/hmabed)
+- hmabed@gmail.com
+- [Link](https://www.femto-st.fr/en/femto-people/hmabed)
 
 **Dr. Philippe Canalda**
 Associate Professor,
