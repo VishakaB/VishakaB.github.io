@@ -141,5 +141,11 @@ Portes du Jura
 philippe.canalda@univ-fcomte.fr
 [Link](https://www.femto-st.fr/en/femto-people/pcanalda)
 
-
+**Dr. Himal Suraweera**
+Senior Lecturer
+Department of Electrical and Electronic Engineering
+University of Peradeniya
+Peradeniya, Sri Lanka
+himal@ee.pdn.ac.lk
+[Link](https://ieeexplore.ieee.org/author/38515869700)
 
