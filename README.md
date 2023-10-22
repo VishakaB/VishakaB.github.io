@@ -77,6 +77,7 @@ Wireless mobile networks are widely used during large catastrophes such as earth
 - Information, MDPI | 2/4/2020
 - [Publication](https://www.mdpi.com/2078-2489/11/2/89)
 
+Energy efficiency is a major concern in the emerging mobile cellular wireless networks since massive connectivity is to be expected with high energy requirements from the network operators. Non-orthogonal multiple access (NOMA) being the frontier multiple access scheme for 5G, there exists numerous research attempts on enhancing the energy efficiency of NOMA enabled wireless networks while maintaining its outstanding performance metrics such as high throughput, data rates and capacity maximized optimally.The concept of green NOMA is introduced in a generalized manner to identify the energy efficient NOMA schemes. These schemes will result in an optimal scenario in which the energy generated for communication is managed sustainably. Hence, the effect on the environment, economy, living beings, etc is minimized. The recent research developments are classified for a better understanding of areas which are lacking attention and needs further improvement. Also, the performance comparison of energy efficient, NOMA schemes against conventional NOMA is presented. Finally, challenges and emerging research trends, for energy efficient NOMA are discussed.
 
 
 
