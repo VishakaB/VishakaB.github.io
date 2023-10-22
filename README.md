@@ -1,8 +1,9 @@
 # Vishaka Basnayake
 
 [Researchgate](https://www.researchgate.net/profile/Vishaka-Basnayake)| [LinkedIn](https://www.linkedin.com/in/vishakabasnayake) | [Youtube](https://www.youtube.com/channel/UCP-gQKG5nroQ6dDIyZMs3kw)
+
 Email: vishakabasnayake@gmail.com
-Address: Faculty of Postgraduate Studies and Research, [Sri Lanka Technological Campus, Sri Lanka](https://sltc.ac.lk/)
+Work Address: Faculty of Postgraduate Studies and Research, [Sri Lanka Technological Campus, Sri Lanka](https://sltc.ac.lk/)
 
 ## About Me
 Vishaka Basnayake earned her Ph.D. in Computer Science from the Universite Bourgogne Franche Comte (UBFC),
