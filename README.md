@@ -139,7 +139,6 @@ Autonomous mobile robots working in-proximity humans and objects are becoming fr
 - Credential ID: TKUXA3QGY4XC
 - [Link](https://www.coursera.org/account/accomplishments/certificate/TKUXA3QGY4XC)
 
-
 ## Management and Leadership Skills
 **Lead in MSc in Electronics and Communications Engineering**
 - Managing the MSc Programme in Electronics and Communications Engineering under the Faculty of Postgraduate
@@ -150,6 +149,21 @@ Studies and Research at Sri Lanka Technological Campus, Sri Lanka.
 - Responsible for curating top-tier research papers, ensuring academic excellence and fostering rigorous scholarly
 discourse.
 - [Link](https://irc2023.sltc.ac.lk/conference-committee)
+
+## Lectures & Talks
+**Undergraduate Lecture Series**
+- Internet of  Things
+- Microwave Engineering
+- Antenna and Microwave Communications
+- Electromagnetism
+- Satellite Communications
+
+**Presentations on Research Findings**
+-  IEEE 19th International Symposium on Network Computing and Applications (NCA), 2020
+-  IEEE 94th Vehicular Technology Conference (VTC2021-Fall), 2021
+-  IEEE International Symposium on Personal, Indoor and Mobile Radio Communication, 2023
+
+[Vishaka Basnayake Youtube](https://www.youtube.com/channel/UCP-gQKG5nroQ6dDIyZMs3kw)
 
 
 ## References
