@@ -128,8 +128,7 @@ Autonomous mobile robots working in-proximity humans and objects are becoming fr
 DISC - NUMERICA (Campus Montbéliard)
 Portes du Jura
 2 cours Louis Leprince Ringuet
-25200 MONTBELIARD
-- hmabed@gmail.com
+25200 MONTBELIARD, [email](hmabed@gmail.com)
 - [Link](https://www.femto-st.fr/en/femto-people/hmabed)
 
 **Dr. Philippe Canalda**
