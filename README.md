@@ -39,7 +39,18 @@ Localization, Network Protocol Design, and Federated Learning.
 - Proofreading Base Station Tower Designs Provided by Telecommunications Vendors
 
 ## Digital Skills
-
+- Programming Languages: MATLAB/Simulink, Python, Java
+- Basic knowledge in Object Oriented Programming
+- Embedded System Programming: Micropython
+- Database Management: SQL
+- Data Visualization: Matplotlib
+- Online Notebook IDEs: Google Colab, Jupyter Notebook
+- IDEs: Pycharm, Vscode
+- Machine learning: Tensorflow, Scikit-learn
+- Antenna and Microwave Simulations: Anysis HFSS
+- Circuit Design and Fabrication: Proteus, Diptrace
+- Text Processing: Latex, Word, Google Tools
+  
 
 ## Projects and Publications
 
