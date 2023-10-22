@@ -30,7 +30,7 @@ Localization, Network Protocol Design, and Federated Learning.
 
 **Research Assistant and Master Thesis Student, University of Oulu, Finland (September, 2018 - July 2019)**
 - Research Assistant, Center for Wireless Communications, University of Oulu, Finland (September 2018 - December 2018)
-- Federated Learning assisted edge network design for sensor measurement reliablity enhancement
+- Federated Learning assisted edge network design for sensor measurement reliability enhancement
 
 **Instructor, Computing Center, University of Peradeniya, Sri Lanka (November 2017 - August 2018)**
 - Managing and updating resources of University Learning Management System
