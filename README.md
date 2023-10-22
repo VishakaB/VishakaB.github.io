@@ -73,7 +73,7 @@ Global pandemics such as Covid-19 have led to massive loss of human lives and st
 Wireless mobile networks are widely used during large catastrophes such as earthquakes and floods where robust networking systems are indispensable to protect human lives. The objective of this paper is to present a self-adaptive emergency call protocol that allows keeping potential victims connected to the core network through the available functional stations, called gNBs in 5G, when a fraction of gNBs in a network area are fully destructed with no access to other gNBs or the core network due to the disaster. Nowadays, the density of mobile devices and progress in outband device to device (D2D) communication provide the framework for the extension of both mobile and network coverage. We propose a novel, 3GPP compatible and completely distributed protocol called M-HELP for emergency call service for 4G/5G enabled mobile networks. We assess M-HELP efficiency under various scenarios representing different degrees of network destruction and different emergency call conditions. The tests demonstrate the significant performance of M-HELP in terms of transmission success rate, energy management, latency and control traffic load.
 
 ### A New Green Prospective of Non-orthogonal Multiple Access (NOMA) for 5G
-- Authors: Vishaka Basnayake, Dushantha Nalin K. Jayakody, Vishal Sharma, Nikhil Sharma, Hakim Mabed
+- Authors: Vishaka Basnayake, Dushantha Nalin K. Jayakody, Vishal Sharma, Nikhil Sharma, P. Muthuchidambaranathan, Hakim Mabed
 - Information, MDPI | 2/4/2020
 - [Publication](https://www.mdpi.com/2078-2489/11/2/89)
 
