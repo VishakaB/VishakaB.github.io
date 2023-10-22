@@ -42,7 +42,7 @@ Localization, Network Protocol Design, and Federated Learning.
 - Programming Languages: MATLAB/Simulink, Python, Java
 - Basic knowledge in Object Oriented Programming
 - Embedded System Programming: Micropython
-- Database Management: SQL
+- Database Management and Analysis: SQL
 - Data Visualization: Matplotlib
 - Online Notebook IDEs: Google Colab, Jupyter Notebook
 - IDEs: Pycharm, Vscode
