@@ -23,7 +23,7 @@ Localization, Network Protocol Design, and Federated Learning.
 - Conducting Lectures for Undergraduate Bachelor Degree students on topics including Internet of Things, Microwave Engineering, Electromagnetism, Antenna and Microwave Communication, and Satellite Communication.
 - Conducting Lectures for Postgraduate Master's Degree students on Advanced Signal Processing.
   
-**Doctoral Researcher. Universite Bourgogne Franche Comte, France (January 2020 - June 2023)**
+**Doctoral Researcher, Universite Bourgogne Franche Comte, France (January 2020 - June 2023)**
 - Network Protocol Design for Multi-Hop Wireless Adhoc D2D Communications
 - Localization of Adhoc Network Devices using Multi-Hop Data and Constraint Satisfaction Programming
 - Cyclic Decoding Scheme for Asynchronous Non-Orthogonal Multiple Access assisted D2D Communications  
