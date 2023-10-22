@@ -45,7 +45,7 @@ Localization, Network Protocol Design, and Federated Learning.
 - Data Management and Analysis: SQL
 - Data Visualization: Matplotlib
 - Online Notebook IDEs: Google Colab, Jupyter Notebook
-- Other IDEs: Pycharm, Vscode
+- Other IDEs: Pycharm, VScode
 - Machine learning: Tensorflow, Scikit-learn
 - Antenna and Microwave Simulations: Anysis HFSS
 - Circuit Design and Fabrication: Proteus, Diptrace
