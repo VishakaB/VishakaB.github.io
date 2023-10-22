@@ -38,6 +38,9 @@ Localization, Network Protocol Design, and Federated Learning.
 **Industrial Trainee, ZTE Corporation (Telecommuication Services), Sri Lanka (September 2015 - January 2016)**
 - Proofreading Base Station Tower Designs Provided by Telecommunications Vendors
 
+## Digital Skills
+
+
 ## Projects and Publications
 
 ### Ph.D Thesis: Reliable Emergency Service for 5G Networks
@@ -46,7 +49,6 @@ Localization, Network Protocol Design, and Federated Learning.
 - [Publication](https://www.researchgate.net/publication/371946981_PhD_Thesis_Reliable_Emergency_Service_for_5G_Networks?channel=doi&linkId=649d4cd78de7ed28ba63e789&showFulltext=true) 
 
 During large-scale disasters, emergency communication systems that are reliable, responsive, and energy-efficient are crucial. This thesis focuses on designing reliable emergency communication systems for disaster scenarios in out-of-coverage areas. The proposed systems are designed to work seamlessly across the data link, network, and application layers. At the data link layer, a new decoding scheme named Cyclic Triangular Successive Interference Cancellation (Cyclic T-SIC) is proposed to enhance the reliability in Asynchronous NOMA-assisted D2D communications. Moreover, at the network layer, new multi-hop protocols namely Multi-Hop Emergency caLl Protocol (M-HELP) and 5G Standalone Service (5G-SOS) that comply with 3GPP standards are introduced to reduce control traffic and improve emergency information transfer reliability. Moreover, a new Multi Victim Localization Algorithm (MVLA) is proposed at the application layer to locate victim devices during emergencies. This scheme uses radio data from outband D2D-assisted multi-hop emergency calls and applies constraint satisfaction methods to locate victims in a progressive propagation manner. Additionally, an emergency service architecture is also proposed comprising an optimized machine learning model to locate population-congested areas during pandemics. By comparing and evaluating the proposed methods and schemes with conventional state-of-the-art approaches, valuable insights are obtained into the design of efficient and optimal emergency communication systems for areas with limited network coverage.
-
 
 ### M-Ary QAM Asynchronous-NOMA D2D Network With Cyclic Triangular-SIC Decoding Scheme
 - Authors: Vishaka Basnayake, Dushantha Nalin K. Jayakody, Hakim Mabed, Philippe Canalda
