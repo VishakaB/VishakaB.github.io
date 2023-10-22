@@ -1,7 +1,7 @@
 # Vishaka Basnayake
 
-[Email](vishakabasnayake@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vishakabasnayake) | [Youtube](https://www.youtube.com/channel/UCP-gQKG5nroQ6dDIyZMs3kw)
-
+[Researchgate](https://www.researchgate.net/profile/Vishaka-Basnayake)| [LinkedIn](https://www.linkedin.com/in/vishakabasnayake) | [Youtube](https://www.youtube.com/channel/UCP-gQKG5nroQ6dDIyZMs3kw)
+Email: vishakabasnayake@gmail.com
 Address: Faculty of Postgraduate Studies and Research, [Sri Lanka Technological Campus, Sri Lanka](https://sltc.ac.lk/)
 
 ## About Me
