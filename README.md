@@ -18,7 +18,7 @@ Technical Skills: Python, SQL, Java, MATLAB, Scikit-learn, Tensorflow, Ansys HFS
 ## Projects and Publications
 
 
-##Licenses and Certifications
+## Licenses and Certifications
 - SQL for Data Science, Coursera, Oct 2023, Credential ID: EUUFZ445D95T (https://www.coursera.org/account/accomplishments/certificate/EUUFZ445D95T)
  
 
