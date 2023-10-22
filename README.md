@@ -35,7 +35,7 @@ Localization, Network Protocol Design, and Federated Learning.
 
 ## Projects and Publications
 
- ### Ph.D Thesis: Reliable Emergency Service for 5G Networks
+### Ph.D Thesis: Reliable Emergency Service for 5G Networks
 - Authors: Vishaka Basnayake
 - Université Bourgogne Franche-Comté (UBFC), France | 6/2/2023
 - [Publication](https://www.researchgate.net/publication/371946981_PhD_Thesis_Reliable_Emergency_Service_for_5G_Networks?channel=doi&linkId=649d4cd78de7ed28ba63e789&showFulltext=true) 
