@@ -1,7 +1,9 @@
 # Vishaka Basnayake
 
 [Email](vishakabasnayake@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/vishakabasnayake) 
+
 [Youtube](https://www.youtube.com/channel/UCP-gQKG5nroQ6dDIyZMs3kw)
 
 ## About Me
