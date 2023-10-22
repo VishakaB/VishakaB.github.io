@@ -28,7 +28,7 @@ Localization, Network Protocol Design, and Federated Learning.
 - Localization of Adhoc Network Devices using Multi-Hop Data and Constraint Satisfaction Programming
 - Cyclic Decoding Scheme for Asynchronous Non-Orthogonal Multiple Access assisted D2D Communications  
 
-**Master Thesis Student, University of Oulu, Finland (September, 2018 - July 2019)**
+**Research Assistant and Master Thesis Student, University of Oulu, Finland (September, 2018 - July 2019)**
 - Research Assistant, Center for Wireless Communications, University of Oulu, Finland (September 2018 - December 2018)
 - Federated Learning assisted edge network design for sensor measurement reliablity enhancement
 
