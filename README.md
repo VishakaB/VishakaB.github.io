@@ -15,10 +15,10 @@ Technical Skills: Python, SQL, Java, MATLAB, Scikit-learn, Tensorflow, Ansys HFS
 - Instructor, Computing Center, University of Peradeniya, Sri Lanka (November 2017 - August 2018)
 - Industrial Trainee, ZTE Corporation (Telecommuication Services), Sri Lanka (September 2015 - January 2016)
 
-## Projects
+## Projects and Publications
 
 
-
-## Publications
-- 
+##Licenses and Certifications
+- SQL for Data Science, Coursera, Oct 2023, Credential ID: EUUFZ445D95T (https://www.coursera.org/account/accomplishments/certificate/EUUFZ445D95T)
+ 
 
