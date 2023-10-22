@@ -1,5 +1,9 @@
 # Vishaka Basnayake
 
+[Email](vishakabasnayake@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vishakabasnayake) 
+[Youtube](https://www.youtube.com/channel/UCP-gQKG5nroQ6dDIyZMs3kw)
+
 ## About Me
 Vishaka Basnayake earned her Ph.D. in Computer Science from the Universite Bourgogne Franche Comte (UBFC),
 France, in June 2023. Prior to that, she completed her M.Sc. in Wireless Communications Engineering at the
