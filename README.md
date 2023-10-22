@@ -157,6 +157,8 @@ discourse.
 - Antenna and Microwave Communications
 - Electromagnetism
 - Satellite Communications
+  
+[Vishaka Basnayake Youtube](https://www.youtube.com/channel/UCP-gQKG5nroQ6dDIyZMs3kw)
 
 **Presentations on Research Findings**
 -  IEEE 19th International Symposium on Network Computing and Applications (NCA), 2020
