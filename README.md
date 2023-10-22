@@ -135,26 +135,27 @@ Autonomous mobile robots working in-proximity humans and objects are becoming fr
 ## References
 **Dr. Hakim Mabed**
 - Associate Professor,
-DISC - NUMERICA (Campus Montbéliard)
-Portes du Jura
+DISC - NUMERICA (Campus Montbéliard),
+Portes du Jura,
 2 cours Louis Leprince Ringuet
-25200 MONTBELIARD, [email](hmabed@gmail.com)
+25200 MONTBELIARD, France.
+- [email](hmabed@gmail.com)
 - [Link](https://www.femto-st.fr/en/femto-people/hmabed)
 
 **Dr. Philippe Canalda**
-Associate Professor,
-DISC - NUMERICA (Campus Montbéliard)
-Portes du Jura
-2 cours Louis Leprince Ringuet
-25200 MONTBELIARD
-philippe.canalda@univ-fcomte.fr
-[Link](https://www.femto-st.fr/en/femto-people/pcanalda)
+- Associate Professor,
+DISC - NUMERICA (Campus Montbéliard),
+Portes du Jura,
+2 cours Louis Leprince Ringuet,
+25200 MONTBELIARD, France.
+- philippe.canalda@univ-fcomte.fr
+- [Link](https://www.femto-st.fr/en/femto-people/pcanalda)
 
 **Dr. Himal Suraweera**
-Senior Lecturer
-Department of Electrical and Electronic Engineering
-University of Peradeniya
-Peradeniya, Sri Lanka
-himal@ee.pdn.ac.lk
-[Link](https://ieeexplore.ieee.org/author/38515869700)
+- Senior Lecturer,
+Department of Electrical and Electronic Engineering,
+University of Peradeniya,
+Peradeniya, Sri Lanka.
+- [email](himal@ee.pdn.ac.lk)
+- [Link](https://ieeexplore.ieee.org/author/38515869700)
 
