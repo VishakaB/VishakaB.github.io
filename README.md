@@ -137,7 +137,7 @@ Autonomous mobile robots working in-proximity humans and objects are becoming fr
 - Associate Professor,
 DISC - NUMERICA (Campus Montbéliard),
 Portes du Jura,
-2 cours Louis Leprince Ringuet
+2 cours Louis Leprince Ringuet,
 25200 MONTBELIARD, France.
 - [email](hmabed@gmail.com)
 - [Link](https://www.femto-st.fr/en/femto-people/hmabed)
