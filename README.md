@@ -139,7 +139,7 @@ DISC - NUMERICA (Campus Montbéliard),
 Portes du Jura,
 2 cours Louis Leprince Ringuet,
 25200 MONTBELIARD, France.
-- [email](hmabed@gmail.com)
+- Email: hmabed@gmail.com
 - [Link](https://www.femto-st.fr/en/femto-people/hmabed)
 
 **Dr. Philippe Canalda**
@@ -148,7 +148,7 @@ DISC - NUMERICA (Campus Montbéliard),
 Portes du Jura,
 2 cours Louis Leprince Ringuet,
 25200 MONTBELIARD, France.
-- philippe.canalda@univ-fcomte.fr
+- Email: philippe.canalda@univ-fcomte.fr
 - [Link](https://www.femto-st.fr/en/femto-people/pcanalda)
 
 **Dr. Himal Suraweera**
@@ -156,6 +156,6 @@ Portes du Jura,
 Department of Electrical and Electronic Engineering,
 University of Peradeniya,
 Peradeniya, Sri Lanka.
-- [email](himal@ee.pdn.ac.lk)
+- Email: himal@ee.pdn.ac.lk
 - [Link](https://ieeexplore.ieee.org/author/38515869700)
 
