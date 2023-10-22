@@ -28,8 +28,10 @@ Technical Skills: Python, SQL, Java, MATLAB, Scikit-learn, Tensorflow, Ansys HFS
 - Proofreading Base Station Tower Designs Provided by Telecommunications Vendors
 
 ## Projects and Publications
-** M-Ary QAM Asynchronous-NOMA D2D Network With Cyclic Triangular-SIC Decoding Scheme**
+** M-Ary QAM Asynchronous-NOMA D2D Network With Cyclic Triangular-SIC Decoding Scheme (1/16/2023)**
 [Publication](M-Ary QAM Asynchronous-NOMA D2D Network With Cyclic Triangular-SIC Decoding Scheme)
+
+**Adaptive Emergency Call Service for Disaster Management**
 
 
 ## Licenses and Certifications
