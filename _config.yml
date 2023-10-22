@@ -1,5 +1,5 @@
-title: Vishaka Basnayake
-logo: "./assests/vishaka_profilepic.JPG"
-description: Wireless AI/ML Enthusiast
+title: "Vishaka Basnayake"
+logo: "./assets/vishaka_profilepic.JPG"
+description: "Wireless AI/ML Enthusiast"
 show_downloads: true
-themes: jekyll-theme-architect
+themes: "jekyll-theme-architect"
