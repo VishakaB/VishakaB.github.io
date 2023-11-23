@@ -53,6 +53,13 @@ Multiple Access Schemes, and Localization.
 
 ## Projects and Publications
 
+### Continuous and Responsive D2D Victim Localization for Post-Disaster Emergencies
+- Authors: Vishaka Basnayake, Hakim Mabed, Philippe Canalda, Dushantha Nalin K. Jayakody
+- IEEE Transactions on Mobile Computing | 15/11/2023
+
+One of the most challenging tasks in a disaster scenario is the detection and localization of victims with high accuracy and minimum delay, especially in out-of-coverage areas. In the event of a disaster that disrupts the cellular network infrastructure, emergency calls can be relayed to the core network via multi-hop D2D communications. In this paper, a localization system is proposed that uses radio measurements obtained through such D2D multi-hop assisted emergency calls to localize in-coverage and out-of-coverage devices. To address the uncertainty and gradual reception of data in real-time in this scenario, a dynamic constraint satisfaction-based Multi Victim Localization Algorithm (MVLA) is proposed. This algorithm locates multi-hop devices in a progressive propagation manner to provide fast and accurate updates on victim locations. Additionally , three modes of MVLA, namely MVLArecent, MVLAseq, and MVLA all are proposed. Simulation results demonstrate that MVLA all has a lower localization error compared to MVLArecent and MVLAseq. Moreover, MVLA all , is compared with an existing particle filtering-based localization algorithm called RSSI Monte-Carlo Boxed Localization (RSSI-MCL) under an increasing number of emergency user devices and functional gNodeBs. Results show that MVLA all significantly outperforms the RSSI-MCL method in terms of localization accuracy and computational delay.
+
+
 ### Post-Disaster Victim Localization via D2D Communications
 - Authors: Vishaka Basnayake, Hakim Mabed, Philippe Canalda, Dushantha Nalin K. Jayakody 
 - 2023 IEEE 34th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) | 31/10/2023
