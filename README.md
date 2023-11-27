@@ -165,6 +165,8 @@ discourse.
 ## Lectures & Talks
 **Undergraduate Lecture Series**
 - Internet of  Things
+- Mobile App Development
+- Advanced Signal Processing
 - Microwave Engineering
 - Antenna and Microwave Communications
 - Electromagnetism
