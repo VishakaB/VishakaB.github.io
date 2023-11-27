@@ -65,10 +65,6 @@ One of the most challenging tasks in a disaster scenario is the detection and lo
 - 2023 IEEE 34th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) | 31/10/2023
 - [Publication](https://ieeexplore.ieee.org/document/10293874) 
 
-One of the most challenging tasks in a disaster scenario is detection and localization of victims with high accuracy and minimum delay, especially in out-of-coverage areas. In the event of a disaster that disrupts the cellular network infrastructure, emergency calls can be relayed to the core network via multi-hop D2D communications. In this paper, a localization system is proposed that uses radio measurements obtained through such D2D multi-hop assisted emergency calls to localize in-coverage and out-of-coverage devices. In order to address the uncertainty and gradual reception of information in real-time, a dynamic constraint satisfaction-based Multi Victim Localization Algorithm (MVLA) is proposed, which locates multi-hop devices in a progressive propagation manner to provide fast and accurate updates on victim locations. In the simulation results, MVLA, is compared with an existing particle filtering-based localization algorithm named RSSI Montecarlo Boxed Localization (RSSI-MCL) under an increasing number of emergency user devices and functional gNodeBs. Results demonstrate that MVLA significantly outperforms the RSSI-MCL method in terms of localization accuracy and computational delay.
-
-
-
 ### Ph.D Thesis: Reliable Emergency Service for 5G Networks
 - Authors: Vishaka Basnayake
 - Université Bourgogne Franche-Comté (UBFC), France | 6/2/2023
@@ -211,4 +207,4 @@ Peradeniya, Sri Lanka.
 - Email: himal@ee.pdn.ac.lk
 - [Link](https://ieeexplore.ieee.org/author/38515869700)
 
-Last updated: 12th Nov 2023
+Last updated: 28th Nov 2023
