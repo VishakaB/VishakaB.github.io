@@ -16,6 +16,7 @@ Multiple Access Schemes, and Localization.
  - Ph.D in Computer Science | Wireless Communication Ssytems | Universite Bourgogne Franche Comte, France | June 2023 | Ph.D Thesis Title: Reliable Emergency Service for 5G Networks
       - Supervisors: Dr. Hakima Mabed,  Dr. Philippe Canalda, Prof. Dushantha Nalin K. Jayakody
  - M.Sc. in Wireless Communications Engineering | University of Oulu, Finland | July 2019 | M.Sc. Thesis Title: Federated Learning For Enhanced Sensor Reliability Of Automated Wireless Networks
+      - Supervisors: Dr. Sumudu Samarakoon, Prof. Mehdi Bennis, Prof. Lilantha Samaranayake
  - BS.c in Electrical and Electronics Engineering | University of Peradeniya, Sri Lanka | October 2017
 
 ## Work Experience
