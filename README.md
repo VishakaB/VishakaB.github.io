@@ -19,7 +19,7 @@ Multiple Access Schemes, and Localization.
 
 ## Work Experience
 **University Lecturer, Wireless Communication Systems, Faculty of Postgraduate Studies and Research, Sri Lanka Technological Campus, Sri Lanka (September 2019 - Present)**
-- Conducting Lectures for Undergraduate Bachelor Degree students on topics including Internet of Things, Microwave Engineering, Electromagnetism, Antenna and Microwave Communication, and Satellite Communication.
+- Conducting Lectures for Undergraduate Bachelor Degree students on topics including Internet of Things, Mobile App Development, Microwave Engineering, Communication Theory, Electromagnetism, Antenna and Microwave Communication, and Satellite Communication.
 - Conducting Lectures for Postgraduate Master's Degree students on Advanced Signal Processing.
   
 **Doctoral Researcher, Universite Bourgogne Franche Comte, France (January 2020 - June 2023)**
