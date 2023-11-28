@@ -9,8 +9,8 @@ Work Address: Faculty of Postgraduate Studies and Research, [Sri Lanka Technolog
 <p style="text-align: justify;">Vishaka Basnayake earned her Ph.D. in Computer Science from the Universite Bourgogne Franche Comte (UBFC),
 France, in June 2023. Prior to that, she completed her M.Sc. in Wireless Communications Engineering at the
 University of Oulu, Finland, in 2019, and her B.Sc. in Electrical and Electronics Engineering at the University of
-Peradeniya, Sri Lanka, in 2017. Her research interests encompass a range of topics, including Signal Processing, Federated Learning, Internet of Things, Network Protocol Design, Mobile App Development, Optimization, Short range D2D Communications, Cellular Wireless networks, Non orthogonal Multiple Access Schemes, and Localization.
-</p>
+Peradeniya, Sri Lanka, in 2017. Her research interests encompass a range of topics, including Signal Processing, Federated Learning, Internet of Things, Network Protocol Design, Mobile App Development, Optimization, Short range D2D Communications, Cellular Wireless networks, Non orthogonal Multiple Access Schemes, and Localization.</p>
+
 ## Education and Training
  - Ph.D in Computer Science | Wireless Communication Ssytems | Universite Bourgogne Franche Comte, France | June 2023 | Ph.D Thesis Title: Reliable Emergency Service for 5G Networks
       - Supervisors: Dr. Hakima Mabed,  Dr. Philippe Canalda, Prof. Dushantha Nalin K. Jayakody
